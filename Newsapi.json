@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": "news24",
+            "title": "Clashes erupt in Istanbul over alleged ‘Prophet Muhammed’ cartoon which ‘insulted religious values’",
+            "description": "Clashes erupted in Istanbul with police firing rubber bullets and tear gas to break up an angry mob after allegations that a satirical magazine had published a cartoon of the Prophet Muhammed, an AFP correspondent said.",
+            "url": "https://www.news24.com/world/clashes-erupt-in-istanbul-over-alleged-prophet-muhammed-cartoon-which-insulted-religious-values-20250701-0725",
+            "urlToImage": "https://news24cobalt.24.co.za/resources/029b-1e21c499ce8f-30adfb195d0d-1000/format/inline/istanbul_protest.jpeg",
+            "publishedAt": "2025-07-01T12:50:15",
+            "content": "\u003Cul\u003E\u003Cli\u003EPolice fired rubber bullets as clashes erupted in Istanbul.\u003C/li\u003E\u003Cli\u003EPeople are angry at a magazine cartoon depicting a Muhammad character.\u003C/li\u003E\u003Cli\u003EMagazine editor Tuncay Akgun denied the char… [+3831 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "The Associated Press",
+            "title": "Police in Turkey detain satirical magazine employees over Prophet Muhammad cartoon controversy",
+            "description": "Police in Turkey detained employees of a satirical magazine over a cartoon that allegedly depicted the Prophet Muhammad.",
+            "url": "https://www.nbcnews.com/world/middle-east/turkey-police-satirical-magazine-prophet-muhammad-cartoon-rcna216158",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-07/250701-turkey-rs-077706.jpg",
+            "publishedAt": "2025-07-01T10:56:58Z",
+            "content": "Police in Turkey detained three more employees of a satirical magazine on Tuesday, raising the number of people taken into custody over a cartoon that allegedly depicted the Prophet Muhammad to four.… [+1991 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "The nation’s cartoonists on the week in politics",
+            "description": "Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundred…",
+            "url": "https://www.politico.com/gallery/2025/06/27/the-nations-cartoonists-on-the-week-in-politics-00428949",
+            "urlToImage": "https://static.politico.com/b2/73/76641db44ca88f2d691430fa2db5/teaser.jpg",
+            "publishedAt": "2025-06-27T09:00:00+00:00",
+            "content": "Cartoon Carousel \r\nEvery week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-s… [+261 chars]"
+        }
+    ]
+}
